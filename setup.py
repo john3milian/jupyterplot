@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
     name="dvt-py",
     install_requires=[
-        "numpy >= 1.22",
+        "numpy >= 1.3.0",
         "pandas >= 1.3",
         "seaborn >= 0.11",
         "ipywidgets >= 7.6",
