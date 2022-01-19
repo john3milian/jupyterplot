@@ -2,7 +2,7 @@ from setuptools import setup
 
 # Metadata goes in setup.cfg. These are here for GitHub's dependency graph.
 setup(
-    name="dvt-py",
+    name="dvt",
     install_requires=[
         "numpy >= 1.3.0",
         "pandas >= 1.3",
